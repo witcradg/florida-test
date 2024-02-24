@@ -1,0 +1,156 @@
+.product-page a {
+  text-decoration: none;
+  color: #777;
+}
+
+.product-page a:hover {
+  color: #fd7e5e;
+}
+
+.product-page h1,
+.product-page h2,
+.product-page h3,
+.product-page h4 {
+  display: block;
+  position: relative;
+  font-family: MontserratExtraBold;
+}
+
+.product-page h1 {
+  display: block;
+  position: relative;
+  font-family: MontserratExtraBold;
+  color: #191919;
+  font-size: 46px;
+  line-height: 60px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding: 0;
+  margin: 0;
+}
+
+.product-page h2 {
+  display: block;
+  position: relative;
+  font-family: MontserratExtraBold;
+  color: #191919;
+  font-size: 34px;
+  line-height: 44px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding: 0;
+  margin-bottom: 0;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.product-page h4 {
+  display: block;
+  position: relative;
+  font-family: MontserratExtraBold;
+  color: #191919;
+  font-size: 24px;
+  line-height: 34px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding-bottom: 24px;
+}
+
+.product-page li span {
+  font-weight: 300;
+}
+
+.page_title {
+  color: #191919;
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-size: 30px;
+  line-height: 40px;
+  letter-spacing: 0.03px;
+  font-weight: 800;
+}
+
+.product-page p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  color: #777777;
+  box-sizing: border-box;
+  margin: 16px 0 0 0px;
+}
+
+.light_text {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  color: #777777;
+  box-sizing: border-box;
+  margin: 16px 0 0 0px;
+}
+
+.light_text:hover {
+  color: #777777;
+}
+
+.accordion_header {
+  color: #191919;
+  padding: 0 0 15px 0;
+  font-size: 14px;
+  line-height: 26px;
+  cursor: pointer;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  font-family: MontserratExtraBold, sans-serif;
+  display: block;
+}
+
+.description_title {
+  text-align: left;
+  box-sizing: border-box;
+  margin-top: 0;
+  display: block;
+  position: relative;
+  color: #191919;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding-bottom: 15px;
+  font-family: MontserratExtraBold, sans-serif;
+}
+
+.description_title2 {
+  font-family: MontserratExtraBold, sans-serif;
+  font-size: 34px;
+  line-height: 44px;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  padding: 0;
+}
+
+.description_title3 {
+  font-family: MontserratExtraBold, sans-serif;
+  padding: 20px 0 0 0;
+}
+
+.disabled_link {
+  pointer-events: none;
+}

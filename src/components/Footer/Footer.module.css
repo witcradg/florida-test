@@ -1,0 +1,38 @@
+.footer_background {
+  /* FOR USE WITH BACKGROUND IMAGE
+    background-image: url("../images/Untitled-1.png"); 
+    background-repeat: no-repeat;
+        background-size: cover;
+    background-position: right;
+    */
+
+  background-color: #e5e7eb;
+  color: black;
+  width: 100%;
+  padding-top: 2rem;
+  margin-top: 2rem;
+  /* background-image   : url("../../images/layout/footer-mountain.webp"); */
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.social_icon {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  border-width: 0;
+  border-style: solid;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: blue;
+  margin-left: 2rem;
+}
+
+.column_title {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 22px;
+}

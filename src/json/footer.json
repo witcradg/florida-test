@@ -1,0 +1,79 @@
+{
+  "component": "footer",
+  "logoImage": "/img/logo-thcflorida.png",
+  "logoAlt": "logo",
+  "logoColumnText": "THC Gummies and THC Flower Florida",
+  "socialElement": {
+    "socials": [
+      {
+        "label": "facebook",
+        "link": "https://www.facebook.com/",
+        "enable": true
+      },
+      {
+        "label": "twitter",
+        "link": "https://twitter.com/",
+        "enable": true
+      },
+      {
+        "label": "google",
+        "link": "https://seo-folsom.business.site/",
+        "enable": true
+      },
+      {
+        "label": "instagram",
+        "link": "https://instagram.com/",
+        "enable": true
+      },
+      {
+        "label": "pinterest",
+        "link": "https://g.co/kgs/QAPJ3Z",
+        "enable": true
+      },
+      {
+        "label": "apple",
+        "link": "#footer-social",
+        "enable": true
+      },
+      {
+        "label": "linkedin",
+        "link": "https://www.linkedin.com/company/web-ecommerce-developer/",
+        "enable": true
+      }
+    ]
+  },
+  "column2header": "SHOP THC FLORIDA",
+  "column3header": "SERVICE AREAS",
+  "column3": {
+    "elements": [
+      {
+        "label": "Sacramento",
+        "link": "/california/sacramento"
+      },
+      {
+        "label": "Folsom",
+        "link": "/california/folsom"
+      },
+      {
+        "label": "Roseville",
+        "link": "/california/roseville"
+      },
+      {
+        "label": "El Dorado Hills",
+        "link": "/california/el-dorado-hills/"
+      },
+      {
+        "label": "Davis",
+        "link": "/california/davis"
+      },
+      {
+        "label": "Orangevale",
+        "link": "/california/orangevale"
+      }
+    ]
+  },
+  "column4header": "CONTACT",
+  "addressLine1": "Ocean BLVD",
+  "addressCsz": "Miami Beach, FL 33139",
+  "email": "info@thcflorida.co"
+}

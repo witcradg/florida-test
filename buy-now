@@ -1,0 +1,53 @@
+"use client"
+import { useRouter } from "next/navigation"
+
+import { Button } from "@/components/ui/button"
+import Link from "next/link"
+import { use } from "react"
+import Script from "next/script"
+
+export const BuyNow = ({ product, outOfStock }) => {
+  const router = useRouter()
+
+  const checkoutLink = `${product.slug}#/checkout`
+  console.log("checkoutLink", checkoutLink)
+
+
+  // ;<Script
+  //   type="text/javascript"
+  //   id="snipcart"
+  //   src="https://cdn.snipcart.com/scripts/snipcart.js"
+  //   data-api-key="{process.env.SC_API_KEY"
+  //   data-autopop="false"
+  // ></Script>
+
+  return (
+      {!outOfStock ? (
+      <div className="mb-8">
+        <a
+          href={checkoutLinkRef.current}
+          className="snipcart-add-item btn btn-lg text-lg w-full rounded-none py-2 px-4"
+          style={{
+            fontFamily: "MontserratExtraBold",
+            backgroundColor: "#ffc520",
+            color: "#2879fe",
+            borderRadius: "0",
+          }}
+          data-item-id={product.sku}
+          data-item-price={product.discountedPrice}
+          data-item-url={product.dataItemUrl}
+          data-item-description={product.dataItemDescription}
+          data-item-image={product.productImage.url}
+          data-item-name={product.name}
+          data-item-quantity={1}
+          data-item-category={product.dataItemCategory}
+        >
+          BUY NOW!
+        </a>
+      </div>
+    ) : (
+      <br />
+    )}
+
+  )
+}

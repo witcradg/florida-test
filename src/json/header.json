@@ -1,0 +1,96 @@
+{
+  "mainMenu": [
+    {
+      "label": "HOME",
+      "link": "/"
+    },
+    {
+      "label": "SHOP",
+      "link": "/no-op: dropdown/"
+    },
+    {
+      "label": "FAQ",
+      "link": "/no-op: dropdown/"
+    },
+    {
+      "label": "FLORIDA DISPENSARY",
+      "link": "/florida-dispensary/"
+    },
+    {
+      "label": "FREE SAMPLE",
+      "link": "/free-sample/"
+    }
+  ],
+  "submenu1": [
+    {
+      "label": "Delta 8 Gummies",
+      "link": "/delta-8-gummies/"
+    },
+    {
+      "label": "Delta 9 Gummies",
+      "link": "/delta-9-gummies/"
+    },
+    {
+      "label": "THCA Flower",
+      "link": "/thca/"
+    },
+    {
+      "label": "Privacy policy",
+      "link": "/privacy-policy/"
+    },
+    {
+      "label": "Refund Policy",
+      "link": "/refund-policy/"
+    },
+    {
+      "label": "Terms of Service",
+      "link": "/terms-of-service/"
+    },
+    {
+      "label": "Lab Tests",
+      "link": "/lab-tests/"
+    }
+  ],
+  "submenu2": [
+    {
+      "label": "Where Can I Buy",
+      "link": "/where-can-i-buy/"
+    },
+    {
+      "label": "Is it Legal",
+      "link": "/is-it-legal/"
+    },
+    {
+      "label": "Shipping Locations",
+      "link": "/shipping-locations/"
+    },
+    {
+      "label": "Dealer Information",
+      "link": "/dealer-information/"
+    },
+    {
+      "label": "Become an Affiliate",
+      "link": "/become-an-affiliate/"
+    },
+    {
+      "label": "Become an Influencer",
+      "link": "/become-an-influencer/"
+    },
+    {
+      "label": "Do You Ship",
+      "link": "/do-you-ship/"
+    },
+    {
+      "label": "Track Order",
+      "link": "/track-order/"
+    },
+    {
+      "label": "Order Bulk",
+      "link": "/order-bulk/"
+    },
+    {
+      "label": "Wholesale",
+      "link": "/wholesale/"
+    }
+  ]
+}

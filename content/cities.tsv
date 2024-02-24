@@ -1,0 +1,284 @@
+zips	lat	long	city	stateshort	state	county
+32004	29.937673	-81.420603	Ponte Vedra Beach	FL	Florida	Saint Johns
+32008	30.101927	-82.908004	Branford	FL	Florida	Suwannee
+32011	30.556322	-81.837594	Callahan	FL	Florida	Nassau
+32024	30.105451	-82.687780	Lake City	FL	Florida	Columbia
+32034	30.607780	-81.682889	Fernandina Beach	FL	Florida	Nassau
+32041	30.623300	-81.590249	Yulee	FL	Florida	Nassau
+32042	29.968926	-82.122553	Graham	FL	Florida	Bradford
+32043	29.998318	-81.764680	Green Cove Springs	FL	Florida	Clay
+32046	30.670745	-81.894528	Hilliard	FL	Florida	Nassau
+32050	30.031702	-81.848401	Middleburg	FL	Florida	Clay
+32052	30.495814	-82.985428	Jasper	FL	Florida	Hamilton
+32054	30.007626	-82.341422	Lake Butler	FL	Florida	Union
+32059	30.498591	-83.361506	Lee	FL	Florida	Madison
+32060	30.175865	-83.030438	Live Oak	FL	Florida	Suwannee
+32063	30.284628	-82.160139	Macclenny	FL	Florida	Baker
+32065	29.986046	-81.883212	Orange Park	FL	Florida	Clay
+32066	30.148296	-83.210982	Mayo	FL	Florida	Lafayette
+32091	29.928149	-82.179651	Starke	FL	Florida	Bradford
+32094	30.194651	-82.857328	Wellborn	FL	Florida	Suwannee
+32099	30.337538	-81.768622	Jacksonville	FL	Florida	Duval
+32110	29.402177	-81.334250	Bunnell	FL	Florida	Flagler
+32111	29.060711	-81.969048	Candler	FL	Florida	Marion
+32112	29.511518	-81.681387	Crescent City	FL	Florida	Putnam
+32114	29.146163	-81.053368	Daytona Beach	FL	Florida	Volusia
+32129	29.022729	-81.172169	Port Orange	FL	Florida	Volusia
+32130	29.183646	-81.329387	De Leon Springs	FL	Florida	Volusia
+32132	28.974136	-80.922910	Edgewater	FL	Florida	Volusia
+32135	29.466085	-81.282815	Palm Coast	FL	Florida	Flagler
+32136	29.509845	-81.182950	Flagler Beach	FL	Florida	Flagler
+32158	28.811078	-81.653642	Lady Lake	FL	Florida	Lake
+32168	28.951931	-81.033705	New Smyrna Beach	FL	Florida	Volusia
+32173	29.022729	-81.172169	Ormond Beach	FL	Florida	Volusia
+32177	29.611093	-81.785957	Palatka	FL	Florida	Putnam
+32180	29.244623	-81.471982	Pierson	FL	Florida	Volusia
+32181	29.539751	-81.613183	Pomona Park	FL	Florida	Putnam
+32233	30.352390	-81.517761	Atlantic Beach	FL	Florida	Duval
+32240	30.344940	-81.683107	Jacksonville Beach	FL	Florida	Duval
+32266	30.315978	-81.408006	Neptune Beach	FL	Florida	Duval
+32301	30.418514	-84.203379	Tallahassee	FL	Florida	Leon
+32320	29.819333	-84.852937	Apalachicola	FL	Florida	Franklin
+32324	30.640548	-84.780758	Chattahoochee	FL	Florida	Gadsden
+32326	30.183372	-84.349060	Crawfordville	FL	Florida	Wakulla
+32328	29.749548	-84.816238	Eastpoint	FL	Florida	Franklin
+32333	30.591733	-84.574009	Havana	FL	Florida	Gadsden
+32340	30.527068	-83.388742	Madison	FL	Florida	Madison
+32344	30.504216	-83.843279	Monticello	FL	Florida	Jefferson
+32347	29.931864	-83.551460	Perry	FL	Florida	Taylor
+32351	30.555675	-84.631830	Quincy	FL	Florida	Gadsden
+32352	30.665715	-84.753630	Quincy	FL	Florida	Gadsden
+32401	30.192200	-85.663027	Panama City	FL	Florida	Bay
+32407	30.200682	-85.813624	Panama City Beach	FL	Florida	Bay
+32410	29.939543	-85.409602	Mexico Beach	FL	Florida	Bay
+32421	30.553171	-85.171315	Altha	FL	Florida	Calhoun
+32424	30.442582	-85.046048	Blountstown	FL	Florida	Calhoun
+32425	30.875532	-85.684243	Bonifay	FL	Florida	Holmes
+32428	30.634834	-85.577618	Chipley	FL	Florida	Washington
+32431	30.801747	-85.287774	Cottondale	FL	Florida	Jackson
+32433	30.639300	-86.145909	Defuniak Springs	FL	Florida	Walton
+32439	30.561269	-86.170600	Freeport	FL	Florida	Walton
+32440	30.882994	-85.361113	Graceville	FL	Florida	Jackson
+32444	30.094456	-85.537104	Lynn Haven	FL	Florida	Bay
+32446	30.799574	-85.229347	Marianna	FL	Florida	Jackson
+32456	29.932300	-85.235414	Port Saint Joe	FL	Florida	Gulf
+32461	30.252531	-85.942389	Rosemary Bch	FL	Florida	Bay
+32501	30.424838	-87.256471	Pensacola	FL	Florida	Escambia
+32533	30.665519	-87.350295	Cantonment	FL	Florida	Escambia
+32535	30.955907	-87.364552	Century	FL	Florida	Escambia
+32536	30.713591	-86.557478	Crestview	FL	Florida	Okaloosa
+32540	30.661155	-86.594479	Destin	FL	Florida	Okaloosa
+32542	30.539331	-86.608737	Eglin Afb	FL	Florida	Okaloosa
+32544	30.422926	-86.698525	Hurlburt Field	FL	Florida	Okaloosa
+32561	30.669276	-87.060696	Gulf Breeze	FL	Florida	Santa Rosa
+32565	30.882760	-87.102495	Jay	FL	Florida	Santa Rosa
+32567	30.715985	-86.512784	Laurel Hill	FL	Florida	Okaloosa
+32568	30.868646	-87.453852	Mc David	FL	Florida	Escambia
+32569	30.659587	-86.602385	Mary Esther	FL	Florida	Okaloosa
+32570	30.792885	-86.985834	Milton	FL	Florida	Santa Rosa
+32577	30.690231	-87.385248	Molino	FL	Florida	Escambia
+32578	30.687036	-86.566325	Niceville	FL	Florida	Okaloosa
+32579	30.581826	-86.581628	Shalimar	FL	Florida	Okaloosa
+32580	30.508210	-86.497060	Valparaiso	FL	Florida	Okaloosa
+32601	29.680410	-82.345739	Gainesville	FL	Florida	Alachua
+32615	29.813456	-82.472049	Alachua	FL	Florida	Alachua
+32617	29.337795	-82.082367	Anthony	FL	Florida	Marion
+32621	29.431045	-82.549823	Bronson	FL	Florida	Levy
+32626	29.389639	-82.834776	Chiefland	FL	Florida	Levy
+32628	29.680616	-83.089669	Cross City	FL	Florida	Dixie
+32640	29.642025	-82.327515	Hawthorne	FL	Florida	Alachua
+32643	29.740704	-82.366367	High Springs	FL	Florida	Alachua
+32656	29.813555	-81.946556	Keystone Heights	FL	Florida	Clay
+32669	29.687249	-82.564624	Newberry	FL	Florida	Alachua
+32686	29.362674	-82.254723	Reddick	FL	Florida	Marion
+32693	29.674633	-82.811678	Trenton	FL	Florida	Gilchrist
+32696	29.354149	-82.635652	Williston	FL	Florida	Levy
+32701	28.666625	-81.365039	Altamonte Springs	FL	Florida	Seminole
+32703	28.635425	-81.488843	Apopka	FL	Florida	Orange
+32707	28.661468	-81.313989	Casselberry	FL	Florida	Seminole
+32708	28.690114	-81.222547	Winter Springs	FL	Florida	Seminole
+32710	28.566338	-81.260818	Clarcona	FL	Florida	Orange
+32713	28.889107	-81.319985	Debary	FL	Florida	Volusia
+32720	29.071980	-81.403355	Deland	FL	Florida	Volusia
+32722	29.022729	-81.172169	Glenwood	FL	Florida	Volusia
+32725	28.900274	-81.245074	Deltona	FL	Florida	Volusia
+32726	28.710129	-81.683696	Eustis	FL	Florida	Lake
+32732	28.751078	-81.107884	Geneva	FL	Florida	Seminole
+32733	28.613308	-81.258108	Goldenrod	FL	Florida	Seminole
+32744	28.988027	-81.220829	Lake Helen	FL	Florida	Volusia
+32746	28.757700	-81.350772	Lake Mary	FL	Florida	Seminole
+32750	28.705924	-81.340639	Longwood	FL	Florida	Seminole
+32751	28.625476	-81.364590	Maitland	FL	Florida	Orange
+32756	28.811078	-81.653642	Mount Dora	FL	Florida	Lake
+32762	28.744752	-81.223280	Oviedo	FL	Florida	Seminole
+32763	28.939904	-81.301856	Orange City	FL	Florida	Volusia
+32768	28.698542	-81.569764	Plymouth	FL	Florida	Orange
+32771	28.793491	-81.299169	Sanford	FL	Florida	Seminole
+32776	28.831447	-81.505121	Sorrento	FL	Florida	Lake
+32778	28.767762	-81.725272	Tavares	FL	Florida	Lake
+32780	28.548877	-80.853421	Titusville	FL	Florida	Brevard
+32789	28.602327	-81.358740	Winter Park	FL	Florida	Orange
+32798	28.717472	-81.583045	Zellwood	FL	Florida	Orange
+32801	28.545179	-81.373291	Orlando	FL	Florida	Orange
+32901	28.012189	-80.585519	Melbourne	FL	Florida	Brevard
+32903	28.107943	-80.579625	Indialantic	FL	Florida	Brevard
+32905	27.968610	-80.611642	Palm Bay	FL	Florida	Brevard
+32920	28.394642	-80.614323	Cape Canaveral	FL	Florida	Brevard
+32922	28.315086	-80.723445	Cocoa	FL	Florida	Brevard
+32925	28.174349	-80.583979	Patrick Afb	FL	Florida	Brevard
+32931	28.325685	-80.623424	Cocoa Beach	FL	Florida	Brevard
+32937	28.167091	-80.615835	Satellite Beach	FL	Florida	Brevard
+32949	27.936416	-80.555597	Grant	FL	Florida	Brevard
+32950	28.072093	-80.596021	Malabar	FL	Florida	Brevard
+32952	28.276389	-80.656825	Merritt Island	FL	Florida	Brevard
+32955	28.287140	-80.723065	Rockledge	FL	Florida	Brevard
+32958	27.799123	-80.483098	Sebastian	FL	Florida	Indian River
+32960	27.638005	-80.402940	Vero Beach	FL	Florida	Indian River
+32970	27.752905	-80.474297	Wabasso	FL	Florida	Indian River
+33002	25.558428	-80.458168	Hialeah	FL	Florida	Miami-Dade
+33004	26.062416	-80.159667	Dania	FL	Florida	Broward
+33008	26.145724	-80.448254	Hallandale	FL	Florida	Broward
+33019	26.091514	-80.192966	Hollywood	FL	Florida	Broward
+33028	26.004868	-80.313445	Hollywood	FL	Florida	Broward
+33030	25.558428	-80.458168	Homestead	FL	Florida	Miami-Dade
+33036	24.901690	-80.682667	Islamorada	FL	Florida	Monroe
+33037	24.963509	-80.961294	Key Largo	FL	Florida	Monroe
+33040	24.655692	-81.382372	Key West	FL	Florida	Monroe
+33042	24.860066	-81.003803	Summerland Key	FL	Florida	Monroe
+33043	24.687493	-81.249423	Big Pine Key	FL	Florida	Monroe
+33044	24.664649	-81.565319	Sugarloaf Shores	FL	Florida	Monroe
+33050	24.687724	-81.294685	Marathon	FL	Florida	Monroe
+33054	25.924821	-80.324273	Opa Locka	FL	Florida	Miami-Dade
+33060	26.240059	-80.139816	Pompano Beach	FL	Florida	Broward
+33070	24.925108	-80.713465	Tavernier	FL	Florida	Monroe
+33101	25.779076	-80.197820	Miami	FL	Florida	Miami-Dade
+33109	25.558428	-80.458168	Miami Beach	FL	Florida	Miami-Dade
+33149	25.709978	-80.173295	Key Biscayne	FL	Florida	Miami-Dade
+33160	25.944859	-80.139067	North Miami Beach	FL	Florida	Miami-Dade
+33326	26.202757	-80.281527	Fort Lauderdale	FL	Florida	Broward
+33401	26.672643	-80.070613	West Palm Beach	FL	Florida	Palm Beach
+33408	26.645895	-80.430269	North Palm Beach	FL	Florida	Palm Beach
+33424	26.645895	-80.430269	Boynton Beach	FL	Florida	Palm Beach
+33427	26.375954	-80.107170	Boca Raton	FL	Florida	Palm Beach
+33430	26.645895	-80.430269	Belle Glade	FL	Florida	Palm Beach
+33440	26.630066	-81.090897	Clewiston	FL	Florida	Hendry
+33441	26.273761	-80.140769	Deerfield Beach	FL	Florida	Broward
+33444	26.457598	-80.081614	Delray Beach	FL	Florida	Palm Beach
+33454	26.645895	-80.430269	Lake Worth	FL	Florida	Palm Beach
+33455	27.050934	-80.158594	Hobe Sound	FL	Florida	Martin
+33458	26.645895	-80.430269	Jupiter	FL	Florida	Palm Beach
+33470	26.649816	-80.294771	Loxahatchee	FL	Florida	Palm Beach
+33476	26.623067	-80.178640	Pahokee	FL	Florida	Palm Beach
+33480	26.600995	-80.038113	Palm Beach	FL	Florida	Palm Beach
+33493	26.645895	-80.430269	South Bay	FL	Florida	Palm Beach
+33509	28.119579	-82.451959	Brandon	FL	Florida	Hillsborough
+33513	28.676288	-82.149168	Bushnell	FL	Florida	Sumter
+33523	28.368860	-82.322756	Dade City	FL	Florida	Pasco
+33524	28.182209	-82.152341	Crystal Springs	FL	Florida	Pasco
+33527	27.975742	-82.240415	Dover	FL	Florida	Hillsborough
+33534	27.911823	-82.385728	Gibsonton	FL	Florida	Hillsborough
+33539	28.213050	-82.165680	Zephyrhills	FL	Florida	Pasco
+33548	27.871964	-82.438841	Lutz	FL	Florida	Hillsborough
+33556	28.128688	-82.584113	Odessa	FL	Florida	Hillsborough
+33564	28.029627	-82.134741	Plant City	FL	Florida	Hillsborough
+33568	27.871964	-82.438841	Riverview	FL	Florida	Hillsborough
+33576	28.331729	-82.300982	San Antonio	FL	Florida	Pasco
+33583	27.871964	-82.438841	Seffner	FL	Florida	Hillsborough
+33586	27.871964	-82.438841	Sun City	FL	Florida	Hillsborough
+33592	28.092775	-82.278977	Thonotosassa	FL	Florida	Hillsborough
+33594	27.937779	-82.347371	Valrico	FL	Florida	Hillsborough
+33598	27.733830	-82.297468	Wimauma	FL	Florida	Hillsborough
+33601	27.996097	-82.582035	Tampa	FL	Florida	Hillsborough
+33755	27.978147	-82.781523	Clearwater	FL	Florida	Pinellas
+33767	27.959847	-82.828625	Clearwater Beach	FL	Florida	Pinellas
+33770	27.916998	-82.802668	Largo	FL	Florida	Pinellas
+33772	27.846601	-82.795385	Seminole	FL	Florida	Pinellas
+33780	27.891809	-82.724763	Pinellas Park	FL	Florida	Pinellas
+33785	27.886757	-82.843525	Indian Rocks Beach	FL	Florida	Pinellas
+33801	28.059997	-81.956122	Lakeland	FL	Florida	Polk
+33823	28.086751	-81.742864	Auburndale	FL	Florida	Polk
+33825	27.473059	-81.464053	Avon Park	FL	Florida	Highlands
+33830	27.918445	-81.790794	Bartow	FL	Florida	Polk
+33836	28.167211	-81.631589	Davenport	FL	Florida	Polk
+33838	28.009099	-81.677776	Dundee	FL	Florida	Polk
+33839	28.005662	-81.702448	Eagle Lake	FL	Florida	Polk
+33843	27.729380	-81.559340	Frostproof	FL	Florida	Polk
+33844	28.075834	-81.592933	Haines City	FL	Florida	Polk
+33852	27.336002	-81.366280	Lake Placid	FL	Florida	Highlands
+33853	27.991865	-81.480831	Lake Wales	FL	Florida	Polk
+33860	27.844612	-81.835864	Mulberry	FL	Florida	Polk
+33868	28.036680	-81.760824	Polk City	FL	Florida	Polk
+33870	27.457947	-81.373012	Sebring	FL	Florida	Highlands
+33873	27.518602	-81.784123	Wauchula	FL	Florida	Hardee
+33880	27.987284	-81.762456	Winter Haven	FL	Florida	Polk
+33903	26.693048	-81.912454	North Fort Myers	FL	Florida	Lee
+33904	26.606491	-81.950160	Cape Coral	FL	Florida	Lee
+33921	26.754493	-82.261149	Boca Grande	FL	Florida	Lee
+33927	26.901981	-82.000005	El Jobean	FL	Florida	Charlotte
+33928	26.472274	-81.705902	Estero	FL	Florida	Lee
+33935	26.690881	-81.448873	Labelle	FL	Florida	Hendry
+33936	26.593573	-81.661922	Lehigh Acres	FL	Florida	Lee
+33946	26.879424	-82.266405	Placida	FL	Florida	Charlotte
+33948	26.940990	-82.206880	Port Charlotte	FL	Florida	Charlotte
+33957	26.458308	-82.100065	Sanibel	FL	Florida	Lee
+33960	27.120281	-81.390945	Venus	FL	Florida	Highlands
+34101	25.855534	-81.387190	Naples	FL	Florida	Collier
+34133	26.552895	-81.948610	Bonita Springs	FL	Florida	Lee
+34142	26.184370	-81.415175	Immokalee	FL	Florida	Collier
+34145	25.938768	-81.696751	Marco Island	FL	Florida	Collier
+34201	27.404731	-82.470456	Bradenton	FL	Florida	Manatee
+34216	27.529113	-82.731722	Anna Maria	FL	Florida	Manatee
+34220	27.427213	-82.438689	Palmetto	FL	Florida	Manatee
+34222	27.546332	-82.496732	Ellenton	FL	Florida	Manatee
+34223	27.143931	-82.404959	Englewood	FL	Florida	Sarasota
+34228	27.357231	-82.443071	Longboat Key	FL	Florida	Manatee
+34229	27.213378	-82.488818	Osprey	FL	Florida	Sarasota
+34230	27.335023	-82.537169	Sarasota	FL	Florida	Sarasota
+34251	27.372771	-82.225911	Myakka City	FL	Florida	Manatee
+34265	27.186146	-81.809939	Arcadia	FL	Florida	De Soto
+34274	27.144031	-82.464468	Nokomis	FL	Florida	Sarasota
+34284	27.167521	-82.380967	Venice	FL	Florida	Sarasota
+34286	27.074755	-82.175602	North Port	FL	Florida	Sarasota
+34420	29.101476	-82.044371	Belleview	FL	Florida	Marion
+34423	28.867027	-82.572703	Crystal River	FL	Florida	Citrus
+34442	28.922317	-82.390044	Hernando	FL	Florida	Citrus
+34446	28.750800	-82.513889	Homosassa	FL	Florida	Citrus
+34447	28.804911	-82.574264	Homosassa Springs	FL	Florida	Citrus
+34450	28.834011	-82.282224	Inverness	FL	Florida	Citrus
+34460	28.859286	-82.508694	Lecanto	FL	Florida	Citrus
+34470	29.238672	-82.169401	Ocala	FL	Florida	Marion
+34488	29.263549	-81.953160	Silver Springs	FL	Florida	Marion
+34601	28.586197	-82.395858	Brooksville	FL	Florida	Hernando
+34606	28.496411	-82.401010	Spring Hill	FL	Florida	Hernando
+34639	28.250774	-82.462630	Land O Lakes	FL	Florida	Pasco
+34652	28.239369	-82.736882	New Port Richey	FL	Florida	Pasco
+34660	28.067043	-82.778424	Ozona	FL	Florida	Pinellas
+34667	28.382489	-82.648030	Hudson	FL	Florida	Pasco
+34668	28.297976	-82.704101	Port Richey	FL	Florida	Pasco
+34677	28.050324	-82.677379	Oldsmar	FL	Florida	Pinellas
+34680	28.324796	-82.481766	Elfers	FL	Florida	Pasco
+34681	28.087401	-82.777683	Crystal Beach	FL	Florida	Pinellas
+34682	27.891809	-82.724763	Palm Harbor	FL	Florida	Pinellas
+34688	27.891809	-82.724763	Tarpon Springs	FL	Florida	Pinellas
+34690	28.191434	-82.724448	Holiday	FL	Florida	Pasco
+34695	28.017645	-82.747692	Safety Harbor	FL	Florida	Pinellas
+34697	27.891809	-82.724763	Dunedin	FL	Florida	Pinellas
+34711	28.584025	-81.779423	Clermont	FL	Florida	Lake
+34731	28.863361	-81.905624	Fruitland Park	FL	Florida	Lake
+34736	28.587996	-81.870269	Groveland	FL	Florida	Lake
+34739	27.933215	-81.092447	Kenansville	FL	Florida	Osceola
+34741	28.307138	-81.461385	Kissimmee	FL	Florida	Osceola
+34748	28.758895	-81.888695	Leesburg	FL	Florida	Lake
+34755	28.578234	-81.831883	Minneola	FL	Florida	Lake
+34756	28.581499	-81.685146	Montverde	FL	Florida	Lake
+34761	28.569438	-81.530251	Ocoee	FL	Florida	Orange
+34762	28.747510	-81.895885	Okahumpka	FL	Florida	Lake
+34777	28.541579	-81.605846	Winter Garden	FL	Florida	Orange
+34785	28.844473	-82.078342	Wildwood	FL	Florida	Sumter
+34786	28.481031	-81.543979	Windermere	FL	Florida	Orange
+34952	27.312492	-80.313322	Port Saint Lucie	FL	Florida	Saint Lucie
+34956	27.106451	-80.451920	Indiantown	FL	Florida	Martin
+34957	27.236473	-80.237943	Jensen Beach	FL	Florida	Martin
+34972	27.420316	-80.945361	Okeechobee	FL	Florida	Okeechobee
+34990	27.111235	-80.419042	Palm City	FL	Florida	Martin
+34994	27.189748	-80.254768	Stuart	FL	Florida	Martin

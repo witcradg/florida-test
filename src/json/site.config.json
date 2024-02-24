@@ -1,0 +1,18 @@
+{
+  "config": {
+    "title": "THC Florida",
+    "description": "THC Florida",
+    "siteUrl": "https://thcflorida.co/",
+
+    "phone": "888-thc-flor",
+
+    "businessName": "THC Florida",
+    "defaultCity": "Miami Beach",
+    "defaultState": "FL",
+    "defaultSeoTitle": "Delta 9 THC Gummies ${city}, ${state}",
+    "defaultSeoDescription": "Delta 9 THC Gummies ${city}, ${state} - ",
+    "cityKeyword": "THC Gummies ${city}, ${state} - Delta 9 Gummies and Delta 8 Gummies made from Hemp.",
+    "citySlug": "STATE/CITY",
+    "author": "@witcradg"
+  }
+}
