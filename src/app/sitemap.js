@@ -34,10 +34,9 @@ export default async function sitemap() {
     }
   })
 
-  //TODO next step is to add the static pages to the sitemap
-  // recursively discover all pages.js files in subdirectories of the app directory
+  //Add the static pages to the sitemap
   const pages = await globby("src/app/**/page.js")
-
+  console.log("pages", pages)
   const rawPages = pages.map((page) => {
     const url = page
       .replace("/page.js", "")
