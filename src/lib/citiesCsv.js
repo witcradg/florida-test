@@ -1,10 +1,19 @@
 const fs = require("fs")
+import path from "path"
 const readline = require("readline")
+
+// export async function getAllOfTheCities() {
+//   const file = path.join(process.cwd(), "content", "cities.tsv")
+//   const stringified = readFileSync(file, "utf8")
+
+//   res.setHeader("Content-Type", "text/tab-separated-values")
+//   return res.end(stringified)
+// }
 
 export async function getAllCities(header = false) {
   let cities = []
 
-  let filePath = "content/cities.tsv"
+  const filePath = path.join(process.cwd(), "content", "cities.tsv")
   const file = fs.createReadStream(filePath, "utf8")
 
   const rl = readline.createInterface({
